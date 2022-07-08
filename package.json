@@ -9,9 +9,11 @@
   "private": false,
   "scripts": {
     "start": "lite-server",
+    "scss": "sass --no-source-map src/assets/main.scss src/assets/main.css",
     "pug:dev": "pug ./src -w",
     "pug:prod": "pug ./src -s -o ./public",
-    "md": "node scripts/md.mjs src/contents"
+    "md": "node scripts/md.mjs src/contents",
+    "tailwind": "tailwindcss -i ./src/assets/tailwind.scss -o ./src/assets/tailwind.css --minify"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",

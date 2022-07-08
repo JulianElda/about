@@ -1,9 +1,6 @@
 doctype html
-html(lang="en")
+html(lang="en" class="bg-slate-50 font-serif text-neutral-900 text-xl")
   include templates/head.pug
-  body.container
-    div.row.justify-content-center
-      div.col-sm-12.col-md-10.col-lg-8
-        include templates/page-heading.pug
-        
-        include contents/index.html
+  body(class="grid max-w-3xl mx-4 lg:mx-auto leading-8")
+    include templates/page-heading.pug
+    include contents/index.html
