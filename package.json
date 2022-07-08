@@ -1,0 +1,10 @@
+{
+  "name": "about",
+  "version": "1.0.0",
+  "description": "personal page",
+  "main": "index.js",
+  "repository": "https://github.com/JulianElda/about",
+  "author": "Julius Polar",
+  "license": "MIT",
+  "private": false
+}
