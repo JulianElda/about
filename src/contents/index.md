@@ -1,9 +1,5 @@
 ## \# About me
 
-Web developer at [Uniscon GmbH](https://www.uniscon.com).
+Web developer. [Avid reader](/book.html). Casual gamer.
 
-Likes to [read](/book.html).
-
-Occasionally makes some [stuff](/work.html).
-
-Don't have social media. [Email me instead](mailto:julius.polar@uniscon.com).
+Check out [the stuff I made](/work.html).
